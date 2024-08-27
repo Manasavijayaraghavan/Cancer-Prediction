@@ -5,7 +5,7 @@ This repository contains two Jupyter notebooks focused on predicting outcomes us
 
 **Project Structure**
 1. prediction_using_random_forest.ipynb: This notebook implements a Random Forest algorithm to predict outcomes based on the provided dataset.
-2. prediction_using_linear_reg.ipynb: This notebook applies Linear Regression for predictive analysis using the same or a similar dataset.
+2. prediction_using_linear_reg.ipynb: This notebook applies Linear Regression for predictive analysis using the same dataset.
 3. Risk_of_Developing_or_Dying_From_Cancer.xls: The dataset used in the analyses, containing data on cancer risks.
    
 **Dataset**
