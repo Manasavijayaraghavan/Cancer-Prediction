@@ -14,7 +14,7 @@ The dataset includes statistics on the likelihood of developing or dying from va
 **Installation**
 To run the notebooks, ensure you have the following dependencies installed:
 
-1. Python 3.x
+1. Python 
 2. Jupyter Notebook
 3. pandas
 4. scikit-learn
